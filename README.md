@@ -16,7 +16,7 @@ Python scripting is employed to generate circular particles through API of fusio
 ---
 ### **Result** ###
 
-The generated RVE with 50% volumetric ratio:
+The generated RVE with 50% volumetric ratio, where the computational domain is 10mm X 10mm and particles has an average radius of 1mm with an deviation of 0.1mm, i.e., from 0.9mm to 1.1mm.
 
 <p align="center">
     <img src="/res/figures/RVE_image_001.png" width="100%" align="center">
