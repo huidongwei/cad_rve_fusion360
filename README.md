@@ -1,7 +1,7 @@
 # cad_rve_fusion360
 Generate representative volume elements by python scripting in CAD software of Fusion360
 
-### summary
+### summary ###
 
 Fusion 360 provides the application programe interface (API) for parametric design where Python and C++ programming language are allowed.
 
@@ -14,7 +14,7 @@ Python scripting is employed to generate circular particles through API of fusio
 </p>
 
 
-### Result
+### Result ###
 
 The generated RVE with 50% volumetric ratio:
 
