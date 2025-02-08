@@ -10,7 +10,7 @@ For the RVE for simulation of composite materials, the random spatial distributi
 Python scripting is employed to generate circular particles through API of fusion 360 by the process shown below:
 
 <p align="center">
-    <img src="/res/figures/flow_chart.png" width="50%" align="center">
+    <img src="/res/figures/flow_chart.png" width="80%" align="center">
 </p>
 
 
@@ -19,5 +19,5 @@ Python scripting is employed to generate circular particles through API of fusio
 The generated RVE with 50% volumetric ratio:
 
 <p align="center">
-    <img src="/res/figures/RVE_image_001.png" width="50%" align="center">
+    <img src="/res/figures/RVE_image_001.png" width="100%" align="center">
 </p>
