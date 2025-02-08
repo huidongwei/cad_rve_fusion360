@@ -1,5 +1,5 @@
 # cad_rve_fusion360
-Generate representative volume elements by python scripting in cad software of fusion360
+Generate representative volume elements by python scripting in CAD software of Fusion360
 
 ### summary
 
@@ -11,4 +11,13 @@ Python scripting is employed to generate circular particles through API of fusio
 
 <p align="center">
     <img src="/res/figures/flow_chart.png" width="50%" align="center">
+</p>
+
+
+### Result
+
+The generated RVE with 50% volumetric ratio:
+
+<p align="center">
+    <img src="/res/figures/RVE_image_001.png" width="50%" align="center">
 </p>
