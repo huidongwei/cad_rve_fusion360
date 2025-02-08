@@ -1,7 +1,7 @@
 # cad_rve_fusion360
 Generate representative volume elements by python scripting in CAD software of Fusion360
 
-### summary ###
+### Summary ###
 
 Fusion 360 provides the application programe interface (API) for parametric design where Python and C++ programming language are allowed.
 
