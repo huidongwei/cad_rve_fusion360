@@ -21,4 +21,3 @@ The generated RVE with 50% volumetric ratio:
 <p align="center">
     <img src="/res/figures/RVE_image_001.png" width="100%" align="center">
 </p>
----
